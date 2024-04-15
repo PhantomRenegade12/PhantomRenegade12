@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">My technical knowledge</h2>
+<h2 align="center">Technical knowledge</h2>
 
 ###
 
@@ -116,7 +116,7 @@
 
 ###
 
-<h2 align="center">My contact</h2>
+<h2 align="center">Contact</h2>
 
 ###
 
