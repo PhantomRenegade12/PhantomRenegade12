@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">I have notions of</h2>
+<h2 align="center">My technical knowledge</h2>
 
 ###
 
