@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I am currently in M2 Digital Security Expert at Aston École IT <br>🎯 Goals : Become a cybersecurity engineer<br>🎲 Fun fact :  I am a former paratrooper</p>
+
 
 ###
 
