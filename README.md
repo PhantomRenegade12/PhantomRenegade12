@@ -8,6 +8,8 @@
 
 <h2 align="left">About me</h2>
 
+<h3 align="left">I am a bachelor student in cybersecurity at Oteria Cyber School</h3>
+
 ###
 
 
