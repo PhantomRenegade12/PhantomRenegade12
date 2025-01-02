@@ -1,5 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=PhantomRenegade12.visitor-badge)
-
 <h1 align="center">
      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=280CF7&width=435&lines=Hello+world+!+%F0%9F%91%8B+;I'm+Samuel+Poulade+!"/>
 </h1>
