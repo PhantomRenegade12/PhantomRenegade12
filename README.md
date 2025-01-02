@@ -28,7 +28,7 @@
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch"
+          <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch" />
           <br/>
           <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" /> 
           <br/>
