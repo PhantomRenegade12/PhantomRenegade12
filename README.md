@@ -28,7 +28,9 @@
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" />
+          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" /> 
+          <br/>
           <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
+          <br/>
           <img src="https://skillicons.dev/icons?i=html,css,bootsrap,react,jquerry,wordpress" />
 </div>
