@@ -24,7 +24,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Softskills ⚒️</h2>
+<h2 align="center">⚒️Tools - OS - Languages - Frameworks ⚒️</h2>
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
@@ -38,7 +38,6 @@
           <br/>
           <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
           <br/>
-           />
 </div>
 
 <br/>
