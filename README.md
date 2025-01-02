@@ -28,6 +28,8 @@
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch"
+          <br/>
           <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" /> 
           <br/>
           <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
@@ -36,7 +38,7 @@
           <br/>
           <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch" />
+           />
 </div>
 
 <br/>
