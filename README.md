@@ -32,7 +32,9 @@
           <br/>
           <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery,wordpress" />
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery,symfony,wordpress" />
           <br/>
           <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
+          <br/>
+          <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch" />
 </div>
