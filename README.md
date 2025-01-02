@@ -32,5 +32,7 @@
           <br/>
           <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=html,css,bootsrap,react,jquerry,wordpress" />
+          <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery,wordpress" />
+          <br/>
+          <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
 </div>
