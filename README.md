@@ -24,20 +24,20 @@
 
  <hr/>
 
-<h2 align="center">⚒️Tools - OS - Languages - Frameworks ⚒️</h2>
+<h2 align="center">⚒️ OS - Tools - Languages - Frameworks ⚒️</h2>
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" />
+          <br/>
           <img src="https://skillicons.dev/icons?i=nginx,azure,terraform,kubernetes,docker,jenkins,ansible,mysql,elasticsearch" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" /> 
+          <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
           <br/>
           <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
           <br/>
           <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,jquery,symfony,wordpress" />
-          <br/>
-          <img src="https://skillicons.dev/icons?i=git,github,pycharm,visualstudio,vscode,vim" />
-          <br/>
+          <br/>          
 </div>
 
 <br/>
