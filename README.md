@@ -24,9 +24,11 @@
 
  <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Softskills ⚒️</h2>
 <br/>
 <div align="center">
      <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint" />
+          <img src="https://skillicons.dev/icons?i=apple,windows,linux,kali,debian,ubuntu,mint,arduino,rasperrypi" />
+          <img src="https://skillicons.dev/icons?i=c,bash,powershell,python,php,js" />
+          <img src="https://skillicons.dev/icons?i=html,css,bootsrap,react,jquerry,wordpress" />
 </div>
