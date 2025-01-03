@@ -49,6 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
+     
   ![gif serpent](https://github.com/PhantomRenegade12/PhantomRenegade12/blob/output/github-snake-dark.svg)
   
   <br/><br/><br/>
