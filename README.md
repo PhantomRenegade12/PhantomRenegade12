@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/PhantomRenegade12/PhantomRenegade12/output/github-contribution-grid-snake.svg" />
+  ![gif serpent](https://github.com/PhantomRenegade12/ PhantomRenegade12 /blob/output/github-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
