@@ -18,7 +18,7 @@
 
  <hr/>
 
-<h2 align="center">⚒🌐 Connect with me 🌐</h2>
+<h2 align="center">🌐 Connect with me 🌐</h2>
 <div align="center"> 
   <a href="mailto:samuel.poulade@tutamail.com">
     <img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" />
