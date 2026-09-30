@@ -2,7 +2,7 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=280CF7&width=435&lines=Hello+world+!+%F0%9F%91%8B+;I'm+Samuel+Poulade+!"/>
 </h1>
 
-<h3 align="center">I am looking for a work-study program in cybersecurity starting in April 2025</h3>
+<h3 align="center">I am looking for a work-study program in cybersecurity starting in October 2026</h3>
 
 <br/>
 
@@ -10,9 +10,7 @@
 
 💻 Future student at CESI
 
-🎯 My goal is to obtain my diploma as a digital security expert
-
-🏓 I am also a big fan of table tennis 
+🎯 My goal is to obtain my diploma as a information security management
 
  </div>
 
