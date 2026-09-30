@@ -8,7 +8,7 @@
 
 <div align="center">
 
-💻 Future student at Aston IT School
+💻 Future student at CESI
 
 🎯 My goal is to obtain my diploma as a digital security expert
 
