@@ -8,9 +8,9 @@
 
 <div align="center">
 
-💻 Future student at CESI
+💻 Future student at EFREI
 
-🎯 My goal is to earn my Advanced Master's degree in Information Systems Security Management
+🎯 My goal is to earn my Advanced Master's degree in Cybersecurity and Gouvernance
 
 
  </div>
