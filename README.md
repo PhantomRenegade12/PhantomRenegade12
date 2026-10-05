@@ -10,7 +10,7 @@
 
 💻 Future student at EFREI
 
-🎯 My goal is to earn my Advanced Master's degree in Cybersecurity and Gouvernance
+🎯 My goal is to earn my Advanced Master's degree in Cybersecurity and Governance
 
 
  </div>
